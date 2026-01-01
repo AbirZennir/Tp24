@@ -1,0 +1,13 @@
+# Angular
+smartHome-front/node_modules/
+smartHome-front/dist/
+smartHome-front/.angular/
+smartHome-front/.cache/
+
+# Spring
+Smart_Home_back/target/
+
+# General
+**/*.log
+**/Thumbs.db
+**/.DS_Store
